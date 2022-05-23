@@ -87,7 +87,7 @@
 //   if(getUserDate>18){
 //     alert("may enter")
 //   }else{
-//     alert("no entry")
+//     console.log("no entry")
 //   }
 // }
 // console.log(getDateAsString())
@@ -95,20 +95,17 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 // 10
+// function getLocation() {
+//   var myDate=new Date()
+//   myDate.getCurrentPosition();
+//   navigator.geolocation
+//   navigator.geolocation.getCurrentPosition(console.log,console.log)
+// }
+// getLocation()
+
+
+// 11
 // function getRndNum(){
 //   var rndMonth= Math.floor(Math.random()*12);
 //   var rndDay = Math.floor(Math.random()*(31-1)+1);
