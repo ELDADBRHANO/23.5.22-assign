@@ -98,7 +98,6 @@
 // 10
 // function getLocation() {
 //   var myDate=new Date()
-//   myDate.getCurrentPosition();
 //   navigator.geolocation
 //   navigator.geolocation.getCurrentPosition(console.log,console.log)
 // }
