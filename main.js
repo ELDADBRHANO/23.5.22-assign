@@ -84,8 +84,13 @@
 // 9
 // function getDateAsString() {
 //  var getUserDate=new Date(prompt("enter date in format of MM-DD-YYYY"))
-
+//   if(getUserDate>18){
+//     alert("may enter")
+//   }else{
+//     alert("no entry")
+//   }
 // }
+// console.log(getDateAsString())
 
 
 
@@ -112,3 +117,10 @@
 //   return date;
 // }
 // console.log(getRndNum());
+
+
+
+
+
+
+
