@@ -93,13 +93,17 @@
 // console.log(getDateAsString())
 
 
+// var button=document.createElement("button")
 
 
-// 10
+
+// // 10
 // function getLocation() {
 //   var myDate=new Date()
 //   navigator.geolocation
-//   navigator.geolocation.getCurrentPosition(console.log,console.log)
+//   navigator.geolocation.getCurrentPosition(console.log,console.log,myDate)
+  
+//   document.body.style.backgroundColor="red"
 // }
 // getLocation()
 
